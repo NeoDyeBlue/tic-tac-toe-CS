@@ -1,0 +1,8 @@
+C:\Users\ACER\documents\visual studio 2010\Projects\ProjTicTacToe\ProjTicTacToe\bin\Debug\ProjTicTacToe.exe
+C:\Users\ACER\documents\visual studio 2010\Projects\ProjTicTacToe\ProjTicTacToe\bin\Debug\ProjTicTacToe.pdb
+C:\Users\ACER\documents\visual studio 2010\Projects\ProjTicTacToe\ProjTicTacToe\obj\x86\Debug\ProjTicTacToe.Form1.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\ProjTicTacToe\ProjTicTacToe\obj\x86\Debug\ProjTicTacToe.Properties.Resources.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\ProjTicTacToe\ProjTicTacToe\obj\x86\Debug\ProjTicTacToe.csproj.GenerateResource.Cache
+C:\Users\ACER\documents\visual studio 2010\Projects\ProjTicTacToe\ProjTicTacToe\obj\x86\Debug\ProjTicTacToe.exe
+C:\Users\ACER\documents\visual studio 2010\Projects\ProjTicTacToe\ProjTicTacToe\obj\x86\Debug\ProjTicTacToe.pdb
+C:\Users\ACER\documents\visual studio 2010\Projects\ProjTicTacToe\ProjTicTacToe\obj\x86\Debug\ProjTicTacToe.csprojResolveAssemblyReference.cache
